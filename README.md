@@ -3,7 +3,7 @@
 
 =================
 
-应用名称：AllThatRecorderLite.apk
+应用名称：All That Recorder Lite.apk
 
 应用包名：com.pjw.atrl
 
